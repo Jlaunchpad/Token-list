@@ -8,8 +8,6 @@
     ```
     # Step 1: Add token to tokenList.json.
     
-    a. Add token.
-    
         $ (name, symbol, address, decimals, chainId, logoURI) is info of token.
         $ (position) is location of token to display.
         
