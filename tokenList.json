@@ -17,6 +17,15 @@
       "decimals": 9,
       "position": 1,
       "logoURI": ""
-    }
+    },
+    {
+      "name": "Speednode network",
+      "symbol": "SPE",
+      "address": "0x505f805cbedaa5bf338ed5423d84c869fc685b78",
+      "chainId": 56,
+      "decimals": 18,
+      "position": 5,
+      "logoURI": "https://github.com/Speednodenetwork/Logo/raw/main/SpeedNode%20200%20x%20200.png"
+      }
   ]
 }
